@@ -15,10 +15,10 @@
 
 /***** 02 Deklaration + Wertzuweisung I *******/
 
-let firstName;
-firstName = "Max";
-console.log(firstName);
+// let firstName;
+// firstName = "Max";
+// console.log(firstName);
 
-let familyName;
-familyName = "Mütze";
-console.log(familyName);
+// let familyName;
+// familyName = "Mütze";
+// console.log(familyName);
